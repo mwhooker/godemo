@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"testgopackage/pkg"
+	"godemo/pkg"
 )
 
 func main() {
